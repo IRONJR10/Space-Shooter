@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Space Shooter</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Main game container -->
+  <div id="game-container">
+    <h1>Space Shooter</h1>
+
+    <!-- Game canvas -->
+    <canvas id="gameCanvas" width="800" height="600"></canvas>
+
+    <!-- UI Layer (start screen, game over, score) -->
+    <div id="ui-layer">
+      <!-- Start Screen -->
+      <div id="start-screen">
+        <h2>Welcome!</h2>
+        <button id="startButton">Start Game</button>
+      </div>
+
+      <!-- Game Over Screen -->
+      <div id="game-over-screen" class="hidden">
+        <h2>Game Over</h2>
+        <p>Your Score: <span id="finalScore">0</span></p>
+        <button id="restartButton">Play Again</button>
+      </div>
+
+      <!-- Score Display -->
+      <div id="score-display" class="hidden">
+        Score: <span id="score">0</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main script -->
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+/* ============================
+   Global Styles
+============================ */
+body {
+  background-color: #0c0c1e;
+  color: #ffffff;
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  flex-direction: column; /* Ensure footer stays below */
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+/* ============================
+   Game Container
+============================ */
+#game-container {
+  position: relative;
+  border: 2px solid #6c5ce7;
+  box-shadow: 0 0 20px #6c5ce7;
+  margin-bottom: 30px; /* Space for footer */
+}
+
+h1 {
+  font-size: 3em;
+  color: #a29bfe;
+  text-shadow: 0 0 10px #a29bfe;
+}
+
+/* ============================
+   Canvas
+============================ */
+canvas {
+  background-color: #000;
+  display: block;
+  cursor: none;
+}
+
+/* ============================
+   UI Layer (Start / Game Over / Score)
+============================ */
+#ui-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#start-screen,
+#game-over-screen {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 2rem;
+  border-radius: 10px;
+  border: 1px solid #6c5ce7;
+}
+
+/* ============================
+   Buttons
+============================ */
+button {
+  background-color: #6c5ce7;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.2em;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.1s ease;
+  box-shadow: 0 0 10px #6c5ce7;
+}
+
+button:hover {
+  background-color: #a29bfe;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+/* ============================
+   Score Display
+============================ */
+#score-display {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 1.5em;
+  color: #fff;
+  text-shadow: 0 0 5px #000;
+}
+
+/* ============================
+   Utility Classes
+============================ */
+.hidden {
+  display: none !important;
+}
+
+/* ============================
+   Footer
+============================ */
+footer {
+  margin-top: auto;
+  padding: 15px;
+  text-align: center;
+  font-size: 1em;
+  color: #a29bfe;
+  background: rgba(0, 0, 0, 0.5);
+  border-top: 1px solid #6c5ce7;
+  box-shadow: 0 -2px 10px rgba(108, 92, 231, 0.5);
+}
+
+footer a {
+  color: #6c5ce7;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #a29bfe;
+}
