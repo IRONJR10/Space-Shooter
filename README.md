@@ -39,18 +39,7 @@ Start the game by clicking **Start Game** and try to survive as long as possible
 - JavaScript (Vanilla JS)
 - AudioContext API for sound effects
 
-## 💻 Installation / Usage
-1. Clone this repository:
-```bash
-git clone https://github.com/your-username/stellar-assault.git
 
-
----
-
-## ⚡ Fun Fact
-<p align="center">
-✨ “I usually choose the hardest path… because that’s where the growth happens.”  
-</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500"/>
